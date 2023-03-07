@@ -1,3 +1,0 @@
-landmark
-simon
-dominion
