@@ -4,3 +4,4 @@ dominion
 Ayo
 Obi
 kusi
+manager
