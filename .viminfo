@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1678218590,,"wq!"
+|2,0,1678237399,,"wq!"
 :q
-|2,0,1678215618,,"q"
+|2,0,1678235051,,"q"
 :q!
 |2,0,1675895916,,"q!"
 
@@ -29,24 +29,68 @@
 # Registers:
 
 # File marks:
-'0  5  2  ~/userMgt.java
-|4,48,5,2,1678218590,"~/userMgt.java"
+'0  7  6  ~/userMgt.java
+|4,48,7,6,1678237399,"~/userMgt.java"
 '1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
-'2  3  7  ~/userMgt.jave
-|4,50,3,7,1678215197,"~/userMgt.jave"
-'3  3  7  ~/paypal/userMgt.java
-|4,51,3,7,1678212634,"~/paypal/userMgt.java"
+|4,49,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
+'2  5  2  ~/userMgt.java
+|4,50,5,2,1678234782,"~/userMgt.java"
+'3  5  2  ~/userMgt.java
+|4,51,5,2,1678234782,"~/userMgt.java"
+'4  5  2  ~/userMgt.java
+|4,52,5,2,1678218590,"~/userMgt.java"
+'5  5  2  ~/userMgt.java
+|4,53,5,2,1678218590,"~/userMgt.java"
+'6  1  0  ~/.git/COMMIT_EDITMSG
+|4,54,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
+'7  3  7  ~/userMgt.jave
+|4,55,3,7,1678215197,"~/userMgt.jave"
+'8  3  7  ~/paypal/userMgt.java
+|4,56,3,7,1678212634,"~/paypal/userMgt.java"
 
 # Jumplist (newest first):
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678234782,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678234782,"~/userMgt.java"
 -'  5  2  ~/userMgt.java
 |4,39,5,2,1678218590,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678218590,"~/userMgt.java"
+-'  1  0  ~/userMgt.java
+|4,39,1,0,1678218541,"~/userMgt.java"
+-'  1  0  ~/userMgt.java
+|4,39,1,0,1678218541,"~/userMgt.java"
+-'  1  0  ~/userMgt.java
+|4,39,1,0,1678218541,"~/userMgt.java"
+-'  1  0  ~/userMgt.java
+|4,39,1,0,1678218541,"~/userMgt.java"
 -'  1  0  ~/userMgt.java
 |4,39,1,0,1678218541,"~/userMgt.java"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678215618,"~/.git/COMMIT_EDITMSG"
 -'  3  7  ~/userMgt.jave
 |4,39,3,7,1678215197,"~/userMgt.jave"
 -'  3  7  ~/userMgt.jave
@@ -55,6 +99,118 @@
 |4,39,3,7,1678215197,"~/userMgt.jave"
 -'  3  7  ~/userMgt.jave
 |4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  3  7  ~/userMgt.jave
+|4,39,3,7,1678215197,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
+-'  1  0  ~/userMgt.jave
+|4,39,1,0,1678215172,"~/userMgt.jave"
 -'  1  0  ~/userMgt.jave
 |4,39,1,0,1678215172,"~/userMgt.jave"
 -'  1  0  ~/userMgt.jave
@@ -79,34 +235,34 @@
 |4,39,3,7,1678212634,"~/paypal/userMgt.java"
 -'  3  7  ~/paypal/userMgt.java
 |4,39,3,7,1678212634,"~/paypal/userMgt.java"
--'  1  0  ~/paypal/userMgt.java
-|4,39,1,0,1678212597,"~/paypal/userMgt.java"
--'  1  0  ~/paypal/userMgt.java
-|4,39,1,0,1678212597,"~/paypal/userMgt.java"
--'  1  0  ~/paypal/userMgt.java
-|4,39,1,0,1678212597,"~/paypal/userMgt.java"
--'  1  0  ~/paypal/userMgt.java
-|4,39,1,0,1678212597,"~/paypal/userMgt.java"
--'  1  0  ~/paypal/userMgt.java
-|4,39,1,0,1678212597,"~/paypal/userMgt.java"
--'  1  0  ~/paypal/userMgt.java
-|4,39,1,0,1678212597,"~/paypal/userMgt.java"
--'  1  0  ~/paypal/userMgt.java
-|4,39,1,0,1678212597,"~/paypal/userMgt.java"
--'  1  0  ~/paypal/userMgt.java
-|4,39,1,0,1678212597,"~/paypal/userMgt.java"
+-'  3  7  ~/paypal/userMgt.java
+|4,39,3,7,1678212634,"~/paypal/userMgt.java"
+-'  3  7  ~/paypal/userMgt.java
+|4,39,3,7,1678212634,"~/paypal/userMgt.java"
+-'  3  7  ~/paypal/userMgt.java
+|4,39,3,7,1678212634,"~/paypal/userMgt.java"
+-'  3  7  ~/paypal/userMgt.java
+|4,39,3,7,1678212634,"~/paypal/userMgt.java"
+-'  3  7  ~/paypal/userMgt.java
+|4,39,3,7,1678212634,"~/paypal/userMgt.java"
+-'  3  7  ~/paypal/userMgt.java
+|4,39,3,7,1678212634,"~/paypal/userMgt.java"
+-'  3  7  ~/paypal/userMgt.java
+|4,39,3,7,1678212634,"~/paypal/userMgt.java"
 
 # History of marks within files (newest to oldest):
 
 > ~/userMgt.java
-	*	1678218585	0
-	"	5	2
-	^	5	3
-	.	5	2
+	*	1678237394	0
+	"	7	6
+	^	7	7
+	.	7	7
 	+	5	2
+	+	2	4
+	+	7	7
 
 > ~/.git/COMMIT_EDITMSG
-	*	1678215613	0
+	*	1678235047	0
 	"	1	0
 
 > ~/userMgt.jave
