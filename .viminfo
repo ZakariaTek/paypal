@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:wq!
-|2,0,1678243899,,"wq!"
 :q
-|2,0,1678235051,,"q"
+|2,0,1678358804,,"q"
+:wq!
+|2,0,1678357544,,"wq!"
 :q!
 |2,0,1675895916,,"q!"
 
@@ -29,38 +29,80 @@
 # Registers:
 
 # File marks:
-'0  4  19  ~/app.java
-|4,48,4,19,1678243899,"~/app.java"
-'1  2  19  ~/app.java
-|4,49,2,19,1678241752,"~/app.java"
-'2  2  19  ~/app.java
-|4,50,2,19,1678241752,"~/app.java"
-'3  1  12  ~/app.java
-|4,51,1,12,1678237576,"~/app.java"
-'4  1  12  ~/app.java
-|4,52,1,12,1678237576,"~/app.java"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1678358804,"~/.git/COMMIT_EDITMSG"
+'1  1  15  ~/test.java
+|4,49,1,15,1678357544,"~/test.java"
+'2  4  19  ~/app.java
+|4,50,4,19,1678243899,"~/app.java"
+'3  2  19  ~/app.java
+|4,51,2,19,1678241752,"~/app.java"
+'4  2  19  ~/app.java
+|4,52,2,19,1678241752,"~/app.java"
 '5  1  12  ~/app.java
 |4,53,1,12,1678237576,"~/app.java"
 '6  1  12  ~/app.java
 |4,54,1,12,1678237576,"~/app.java"
-'7  7  6  ~/userMgt.java
-|4,55,7,6,1678237399,"~/userMgt.java"
-'8  1  0  ~/.git/COMMIT_EDITMSG
-|4,56,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
-'9  5  2  ~/userMgt.java
-|4,57,5,2,1678234782,"~/userMgt.java"
+'7  1  12  ~/app.java
+|4,55,1,12,1678237576,"~/app.java"
+'8  1  12  ~/app.java
+|4,56,1,12,1678237576,"~/app.java"
+'9  7  6  ~/userMgt.java
+|4,57,7,6,1678237399,"~/userMgt.java"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678358804,"~/.git/COMMIT_EDITMSG"
+-'  1  15  ~/test.java
+|4,39,1,15,1678357544,"~/test.java"
+-'  1  15  ~/test.java
+|4,39,1,15,1678357544,"~/test.java"
+-'  4  19  ~/app.java
+|4,39,4,19,1678243899,"~/app.java"
+-'  4  19  ~/app.java
+|4,39,4,19,1678243899,"~/app.java"
+-'  4  19  ~/app.java
+|4,39,4,19,1678243899,"~/app.java"
 -'  4  19  ~/app.java
 |4,39,4,19,1678243899,"~/app.java"
 -'  2  19  ~/app.java
 |4,39,2,19,1678243780,"~/app.java"
+-'  2  19  ~/app.java
+|4,39,2,19,1678243780,"~/app.java"
+-'  2  19  ~/app.java
+|4,39,2,19,1678243780,"~/app.java"
+-'  2  19  ~/app.java
+|4,39,2,19,1678243780,"~/app.java"
+-'  2  19  ~/app.java
+|4,39,2,19,1678241752,"~/app.java"
+-'  2  19  ~/app.java
+|4,39,2,19,1678241752,"~/app.java"
+-'  2  19  ~/app.java
+|4,39,2,19,1678241752,"~/app.java"
 -'  2  19  ~/app.java
 |4,39,2,19,1678241752,"~/app.java"
 -'  1  12  ~/app.java
 |4,39,1,12,1678241726,"~/app.java"
 -'  1  12  ~/app.java
 |4,39,1,12,1678241726,"~/app.java"
+-'  1  12  ~/app.java
+|4,39,1,12,1678241726,"~/app.java"
+-'  1  12  ~/app.java
+|4,39,1,12,1678241726,"~/app.java"
+-'  1  12  ~/app.java
+|4,39,1,12,1678241726,"~/app.java"
+-'  1  12  ~/app.java
+|4,39,1,12,1678241726,"~/app.java"
+-'  1  12  ~/app.java
+|4,39,1,12,1678241726,"~/app.java"
+-'  1  12  ~/app.java
+|4,39,1,12,1678241726,"~/app.java"
+-'  1  12  ~/app.java
+|4,39,1,12,1678237576,"~/app.java"
+-'  1  12  ~/app.java
+|4,39,1,12,1678237576,"~/app.java"
+-'  1  12  ~/app.java
+|4,39,1,12,1678237576,"~/app.java"
 -'  1  12  ~/app.java
 |4,39,1,12,1678237576,"~/app.java"
 -'  7  6  ~/userMgt.java
@@ -79,6 +121,102 @@
 |4,39,7,6,1678237399,"~/userMgt.java"
 -'  7  6  ~/userMgt.java
 |4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  7  6  ~/userMgt.java
+|4,39,7,6,1678237399,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
+-'  5  2  ~/userMgt.java
+|4,39,5,2,1678237373,"~/userMgt.java"
 -'  5  2  ~/userMgt.java
 |4,39,5,2,1678237373,"~/userMgt.java"
 -'  5  2  ~/userMgt.java
@@ -113,146 +251,19 @@
 |4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1678235051,"~/.git/COMMIT_EDITMSG"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678234782,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  5  2  ~/userMgt.java
-|4,39,5,2,1678218590,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
--'  1  0  ~/userMgt.java
-|4,39,1,0,1678218541,"~/userMgt.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1678358799	0
+	"	1	0
+
+> ~/test.java
+	*	1678357540	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
 
 > ~/app.java
 	*	1678243894	0
@@ -273,10 +284,6 @@
 	+	5	2
 	+	2	4
 	+	7	7
-
-> ~/.git/COMMIT_EDITMSG
-	*	1678235047	0
-	"	1	0
 
 > ~/userMgt.jave
 	*	1678215193	0
