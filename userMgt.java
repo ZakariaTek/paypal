@@ -3,5 +3,5 @@ mercy
 dominion
 Ayo
 Obi
-kusi
+kusi = you need help
 manager
