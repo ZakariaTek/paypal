@@ -157,3 +157,112 @@ git log
 git show f37d9c0
 clear
 git remote -v
+ls
+ll
+git config --global --list
+git pull pay master
+ls
+git log
+git remote -v
+git status
+git add .
+git status
+git reset
+git restore .
+git status
+git reset paypal
+git status
+git restore paypal
+git status
+cd paypal
+git status
+git log
+git push sup master
+cd
+git status
+git restore paypal
+git status
+git add .
+git commit -m "yaw"
+git log
+git remote -v
+git push pay master
+cd paypal
+git status
+git push sup master
+cd
+git status
+ls
+vi userMgt.java
+git status
+git add .
+git status
+git commit
+git log
+git push pay master
+ls
+cat userMgt.java
+git remote -v
+git pull pay master
+cat userMgt.java
+git log
+git pull pay master
+git log
+git show 39ff12e
+vi userMgt.java
+git status
+git commit -a -m "great application"
+cat userMgt.java
+vi app.java
+git status
+ls
+git commit -a -m "Great indeed"
+git add . 
+git add *
+git status
+git commit -m "Great indeed"
+ls
+git log
+git commit -m "great app"
+clear
+git push pay master
+cat userMgt.java
+clear
+git branch
+git brach development
+git branch development
+git branch
+ls
+git switch development
+vi app.java
+git status
+git log
+git commit -a -m "dev commit 1"
+git switch master
+cat app.java
+git diff development
+git merge development
+cat app.java
+git branch
+git push pay --all
+git switch development
+echo "NodeJS applications " >> app.java
+cat app.java
+git status
+git commit -a -m "nodeJS apps"
+git switch master
+cat app.java
+git branch 
+echo ".net applications " >> app.java
+cat app.java
+git commit -a -m ".net master apps"
+git diff development
+git merge development
+vi app.java
+git status
+git commit -a -m "merge conflict resolved"
+git log
+git show e6c68e7
+clear
+git push pay --all
+git diff pay/master
